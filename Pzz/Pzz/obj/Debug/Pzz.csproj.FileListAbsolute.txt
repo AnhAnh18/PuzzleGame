@@ -1,0 +1,12 @@
+E:\AI\Pzz\Pzz\bin\Debug\Pzz.exe.config
+E:\AI\Pzz\Pzz\bin\Debug\Pzz.exe
+E:\AI\Pzz\Pzz\bin\Debug\Pzz.pdb
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.csprojAssemblyReference.cache
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.Eight_Puzzle.resources
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.Start.resources
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.Properties.Resources.resources
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.csproj.GenerateResource.cache
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.csproj.CoreCompileInputs.cache
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.exe
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.pdb
+E:\AI\Pzz\Pzz\obj\Debug\Pzz.Twenty_Four_Puzzle.resources
